@@ -2,5 +2,6 @@
 Head and Neck tumor segmentation using PET/CT based on 3D deep learning segmentation models
 # download the dataset from the following hector21 challenge website
 https://www.aicrowd.com/challenges/miccai-2021-hecktor
+The proposed 3D model look like this
 
-![loss_f1](https://user-images.githubusercontent.com/46267777/135850074-90f2a7a8-f7a5-4bd9-a454-28d5c1402254.png)
+![3Dmodel](https://user-images.githubusercontent.com/46267777/135850649-57ad3a9a-0bc8-4a89-bd0e-dd84a0aeb63e.png)
