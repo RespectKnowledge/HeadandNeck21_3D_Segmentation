@@ -10,3 +10,11 @@ The proposed 3D model look like this
 supproting modules used in main proposed model
 
 ![3Dpng_1](https://user-images.githubusercontent.com/46267777/135851059-87303e6f-e83c-42b2-854e-590dda745c0b.png)
+
+3D ResNet Module
+
+![3Dpng_1](https://user-images.githubusercontent.com/46267777/135851369-65d79023-3cd5-4b2e-a725-7c360c4e7a98.png)
+
+3D Inception Module
+
+![3Dmodel_resnet](https://user-images.githubusercontent.com/46267777/135851531-2656d0fb-ec8d-4d23-bed0-066692b3ee69.png)
