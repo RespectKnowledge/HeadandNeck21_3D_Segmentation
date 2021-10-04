@@ -13,8 +13,8 @@ supproting modules used in main proposed model
 
 3D ResNet Module
 
-![3Dpng_1](https://user-images.githubusercontent.com/46267777/135851369-65d79023-3cd5-4b2e-a725-7c360c4e7a98.png)
+![3Dmodel_resnet](https://user-images.githubusercontent.com/46267777/135851531-2656d0fb-ec8d-4d23-bed0-066692b3ee69.png)
 
 3D Inception Module
 
-![3Dmodel_resnet](https://user-images.githubusercontent.com/46267777/135851531-2656d0fb-ec8d-4d23-bed0-066692b3ee69.png)
+![3DInception_module](https://user-images.githubusercontent.com/46267777/135851734-a5c6c973-bab1-4026-b210-09691bb92e2f.png)
